@@ -1,20 +1,20 @@
 Q1 
-- a. Write a program to find the sum of odd numbers between 1 and 100.
-- b. Write a program to find trace of a matrix. (Hint: Trace is the sum of the
+- a. [Write a program to find the sum of odd numbers between 1 and 100.](./Q1.a.c)
+- b. [Write a program to find trace of a matrix](./Q1.b.c). (Hint: Trace is the sum of the
  diagonal elements)
 
 Q2 
-- a. Write a program to check whether the given integer is prime or not.
-- b. Write a program to find the product of diagonal elements of a Matrix
+- a. [Write a program to check whether the given integer is prime or not](./Q2.a.c).
+- b. [Write a program to find the product of diagonal elements of a Matrix](./Q2.b.c)
 
 Q3
-- a. Write a program to check whether the given integer is even or odd?
-- b. Write a program to find the sum of elements of an array.
+- a. [Write a program to check whether the given integer is even or odd?](./Q3.a.c)
+- b. [Write a program to find the sum of elements of an array](./Q3.b.c).
 
 Q4
-- a. Write a program to reverse an integer.
-- b. Write a program to find largest of two numbers using function.
+- a. [Write a program to reverse an integer](./Q4.a.c).
+- b. [Write a program to find largest of two numbers using function](./Q4.b.c).
 
 Q5 
-- a. Write a program to find the smallest of three numbers.
-- b. Write a program to subtract two matrices
+- a. [Write a program to find the smallest of three numbers](./Q5.a.c).
+- b. [Write a program to subtract two matrices](./Q5.b.c)
