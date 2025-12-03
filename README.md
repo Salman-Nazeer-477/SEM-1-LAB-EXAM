@@ -29,7 +29,7 @@ Q7
 
 Q8 
 - a. [Write a program to print first n natural numbers.](./Q8.a.c)
-- b. [](./Q8.b.c)
+- b. [Write a program to search an element in an array.](./Q8.b.c)
 
 Q9 
 - a. [](./Q9.a.c)
