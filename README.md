@@ -20,7 +20,7 @@ Q5
 - b. [Write a program to subtract two matrices](./Q5.b.c)
 
 Q6 
-- a. [](./Q6.a.c)
+- a. [Write a program to check whether a number is postitive or negative or zero.](./Q6.a.c)
 - b. [](./Q6.b.c)
 
 Q7 
