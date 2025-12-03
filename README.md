@@ -18,3 +18,23 @@ Q4
 Q5 
 - a. [Write a program to find the smallest of three numbers](./Q5.a.c).
 - b. [Write a program to subtract two matrices](./Q5.b.c)
+
+Q6 
+- a. [](./Q6.a.c)
+- b. [](./Q6.b.c)
+
+Q7 
+- a. [](./Q7.a.c)
+- b. [](./Q7.b.c)
+
+Q8 
+- a. [](./Q8.a.c)
+- b. [](./Q8.b.c)
+
+Q9 
+- a. [](./Q9.a.c)
+- b. [](./Q9.b.c)
+
+Q10 
+- a. [](./Q10.a.c)
+- b. [](./Q10.b.c)
