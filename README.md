@@ -28,7 +28,7 @@ Q7
 - b. [Write a program to add two matrices](./Q7.b.c)
 
 Q8 
-- a. [](./Q8.a.c)
+- a. [Write a program to print first n natural numbers.](./Q8.a.c)
 - b. [](./Q8.b.c)
 
 Q9 
