@@ -37,4 +37,4 @@ Q9
 
 Q10 
 - a. [Write a program to generate fibonacci series](./Q10.a.c)
-- b. [](./Q10.b.c)
+- b. [Write a program to find factorial of an integer using function.](./Q10.b.c)
