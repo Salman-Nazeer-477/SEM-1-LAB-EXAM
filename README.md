@@ -21,7 +21,7 @@ Q5
 
 Q6 
 - a. [Write a program to check whether a number is postitive or negative or zero.](./Q6.a.c)
-- b. [](./Q6.b.c)
+- b. [Write a program to find largest element in an array](./Q6.b.c)
 
 Q7 
 - a. [](./Q7.a.c)
