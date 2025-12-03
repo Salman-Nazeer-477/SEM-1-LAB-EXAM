@@ -24,7 +24,7 @@ Q6
 - b. [Write a program to find largest element in an array](./Q6.b.c)
 
 Q7 
-- a. [](./Q7.a.c)
+- a. [Write a program to find largest of three numbers using nested if](./Q7.a.c)
 - b. [](./Q7.b.c)
 
 Q8 
