@@ -33,7 +33,7 @@ Q8
 
 Q9 
 - a. [Write a program to find sum of digits of a number.](./Q9.a.c)
-- b. [](./Q9.b.c)
+- b. [Write a program to find the smallest element in an array.](./Q9.b.c)
 
 Q10 
 - a. [](./Q10.a.c)
