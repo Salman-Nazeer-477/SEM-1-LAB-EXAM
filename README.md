@@ -36,5 +36,5 @@ Q9
 - b. [Write a program to find the smallest element in an array.](./Q9.b.c)
 
 Q10 
-- a. [](./Q10.a.c)
+- a. [Write a program to generate fibonacci series](./Q10.a.c)
 - b. [](./Q10.b.c)
