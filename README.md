@@ -25,7 +25,7 @@ Q6
 
 Q7 
 - a. [Write a program to find largest of three numbers using nested if](./Q7.a.c)
-- b. [](./Q7.b.c)
+- b. [Write a program to add two matrices](./Q7.b.c)
 
 Q8 
 - a. [](./Q8.a.c)
