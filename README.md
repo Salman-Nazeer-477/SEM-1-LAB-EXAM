@@ -32,7 +32,7 @@ Q8
 - b. [Write a program to search an element in an array.](./Q8.b.c)
 
 Q9 
-- a. [](./Q9.a.c)
+- a. [Write a program to find sum of digits of a number.](./Q9.a.c)
 - b. [](./Q9.b.c)
 
 Q10 
